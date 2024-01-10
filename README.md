@@ -1,6 +1,6 @@
 - Hi, I’m @MadarameSilver (●'◡'●)
 - I'm a Computer Science student
-- Game dev and web dev wannabe
+- Aspiring game dev and web dev 
 
 <!---
 MadarameSilver/MadarameSilver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
